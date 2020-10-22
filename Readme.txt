@@ -4,5 +4,5 @@ Kaggle:
 2.Titanic: Machine Learning from Disaster
 
 網路資源：
-1. machine-learning-project-walkthrough<https://github.com/WillKoehrsen/machine-learning-project-walkthrough/>
+1. [machine-learning-project-walkthrough](https://github.com/WillKoehrsen/machine-learning-project-walkthrough/)
 
